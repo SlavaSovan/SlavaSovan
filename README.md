@@ -6,25 +6,32 @@
   </ul>
 </div>
 
-<h2 align="center"> About me </h2>
+<h2><b>About me<b></h2>
 
-### 🖥️ I'm a beginner backend developer.<br>🌍 I'm based in Saint-Petersburg, Russia.<br>✉️ You can contact me at slavasovan@gmail.com or on social media.
+<h3>🖥️ I'm a beginner backend developer.<br>🌍 I'm based in Saint-Petersburg, Russia.<br>✉️ You can contact me at slavasovan@gmail.com or on social media.</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/son_of_jetix)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F??style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/son_of_jetix)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&style=flat&logoColor=white)](https://discordapp.com/users/406493696914358282)
 [![VKontakte](https://img.shields.io/badge/VKontakte-%232E87FB.svg?style=flat&logo=vk&logoColor=white)](https://vk.com/sovanvyacheslav)
 
-<h2 align="center"> Stack </h2>
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>📖 Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python,js,html" />
+    <h3>🛠️ Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=django,docker,git,mysql,postgres,vue&perline=3" />
+    <h3>💿 Software</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman" />
+  </p>
+</details>
 
-### 📖 Languages
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,html)](https://skillicons.dev)
-
-### 🛠️ Frameworks / Tools
-
-[![My Skills](https://skillicons.dev/icons?i=django,docker,git,mysql,postgres,vue&perline=3)](https://skillicons.dev)
-
-### 💿 Software
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,html)](https://skillicons.dev)
+<details align="left">
+  <summary><h2><b>⭐ Statistics</b></h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaSovan&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=SlavaSovan&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </p>
+</details>
