@@ -26,12 +26,3 @@
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman" />
   </p>
 </details>
-
-<details align="left">
-  <summary><h2><b>⭐ Statistics</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaSovan&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=SlavaSovan&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </p>
-</details>
