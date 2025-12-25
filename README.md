@@ -21,7 +21,7 @@
     <h3>📖 Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,js,html" />
     <h3>🛠️ Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=django,docker,git,mysql,postgres,vue&perline=3" />
+    <img src="https://skillicons.dev/icons?i=django,docker,fastapi,mysql,postgres,vue&perline=3" />
     <h3>💿 Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman" />
   </p>
